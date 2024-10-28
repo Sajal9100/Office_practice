@@ -11,6 +11,18 @@ function One() {
 One()
 
 
-if (condition) {
+// +++++++++++++++++++++++intresting++++++++++++++++++++++++++++++++
+
+
+console.log(addvalue(5))
+
+function addvalue(num) {
+    return num + 1
     
 }
+
+console.log(addtwo(6))
+const addtwo = function(num){
+    return num + 2
+}
+
