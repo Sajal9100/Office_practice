@@ -7,6 +7,8 @@ console.log('sunday');
 console.log("wednesday");
 console.log('diwali');
 console.log("done");
+console.log('bhaiduj');
+
 
 
 
